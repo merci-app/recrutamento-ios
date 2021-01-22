@@ -28,3 +28,7 @@
 ## Dicas
 - Explore ao máximo os requisitos obrigatórios
 - Como sugestão, a API https://exchangeratesapi.io/ é totalmente grátis e versátil
+
+---
+
+[Merci @ 2021](https://merci.com.br)
